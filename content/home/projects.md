@@ -1,15 +1,15 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: collection
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 40
 
-title: Projects
+title: Software
 subtitle: ''
 
 content:
@@ -27,14 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Current
+      tag: Current
+    - name: Past
+      tag: Past
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
