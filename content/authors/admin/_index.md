@@ -30,7 +30,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Biomedical Engineeering
-      institution: Johns Hopkins University
+      institution: Johns Hopkins Medical Institute
       year: Present
     - course: M.S.E. in Biomedical Engineeering
       institution: Johns Hopkins University
